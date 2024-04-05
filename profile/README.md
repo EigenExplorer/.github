@@ -1,6 +1,6 @@
 # Eigen Explorer
 
-Welcome to Eigen Explorer, a community-driven data platform for Eigen Layer AVS.
+Welcome to Eigen Explorer ✨, a community-driven data platform for Eigen Layer AVS.
 
 ## Repositories
 
