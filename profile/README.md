@@ -13,7 +13,7 @@ You can find 3 core repositories within the Eigen Explorer Github.
 ## External Links:
 1. Website and Documentation
 - [Website](https://eigenexplorer.com)
-- [Documentation](htts://docs.eigenexplorer.com)
+- [Documentation](https://docs.eigenexplorer.com/)
 
 2. Social and Community
 - [X](https://twitter.com/eigenexplorer)
