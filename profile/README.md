@@ -1,4 +1,4 @@
-# Eigen Explorer
+# EigenExplorer
 
 Welcome to EigenExplorer ✨, a community-driven data platform for EigenLayer AVS.
 
